@@ -7,7 +7,7 @@ CustomHTTP is a lightweight HTTP client library for making HTTP requests in Java
 You can install the library using npm:
 
 ```bash
-npm install custom-http
+npm i custom-http-wrapper
 ```
 ## Usage
 ### Importing
